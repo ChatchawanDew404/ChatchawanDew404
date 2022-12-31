@@ -1,4 +1,6 @@
 ![Images](profile.jpg)
+<img src="![สำเนาของ ปกเฟซบุ๊กอีสปอร์ตนักเล่นเกมยุคใหม่สีฟ้า (1)](https://user-images.githubusercontent.com/89406698/210150516-56aa1f9d-3772-4f81-8ca8-ad3d5f3e24fb.png)
+">
 
 # Hello Everyone 👋
 ## 👋 My name's Chatchawan Ngernthaworn
