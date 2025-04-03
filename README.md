@@ -1,7 +1,7 @@
-![Uploading Green and Yellow Modern Programmer Presentation.jpg…]()
+![Green and Yellow Modern Programmer Presentation](https://github.com/user-attachments/assets/f9dd3666-ba13-4739-bcf6-dfc6276937bc)
 
-<h1 align="center">Hello everyone I'm Chatchawan Ngernthaworn</h1>
-<h3 align="center">"Hello everyone, nice to meet you! I'm a website developer with experience in creating beautiful and functional web experiences. I specialize in building responsive and user-friendly websites that work seamlessly across all devices.</h3>
+<h1>Hello everyone I'm Chatchawan Ngernthaworn</h1>
+<h3>"Hello everyone, nice to meet you! I'm a website developer with experience in creating beautiful and functional web experiences. I specialize in building responsive and user-friendly websites that work seamlessly across all devices.</h3>
 
 - 📫 How to reach me **chatchawan13022547@gmail.com**
 
