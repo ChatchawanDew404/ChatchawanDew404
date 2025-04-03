@@ -1,10 +1,12 @@
+![Uploading Green and Yellow Modern Programmer Presentation.jpg…]()
+
 <h1 align="center">Hello everyone I'm Chatchawan Ngernthaworn</h1>
 <h3 align="center">"Hello everyone, nice to meet you! I'm a website developer with experience in creating beautiful and functional web experiences. I specialize in building responsive and user-friendly websites that work seamlessly across all devices.</h3>
 
 - 📫 How to reach me **chatchawan13022547@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
