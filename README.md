@@ -1,53 +1,11 @@
-![Images](profile.jpg)
-<img src="![สำเนาของ ปกเฟซบุ๊กอีสปอร์ตนักเล่นเกมยุคใหม่สีฟ้า (1)](https://user-images.githubusercontent.com/89406698/210150516-56aa1f9d-3772-4f81-8ca8-ad3d5f3e24fb.png)
-">
+<h1 align="center">Hello everyone I'm Chatchawan Ngernthaworn</h1>
+<h3 align="center">"Hello everyone, nice to meet you! I'm a website developer with experience in creating beautiful and functional web experiences. I specialize in building responsive and user-friendly websites that work seamlessly across all devices.</h3>
 
-# Hello Everyone 👋
-## 👋 My name's Chatchawan Ngernthaworn
-<br>
+- 📫 How to reach me **chatchawan13022547@gmail.com**
 
-#####  My name's Dew and I have a passion for building websites. I am proud to be able to create anything based on creativity and diligent knowledge to be able to create performance.
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
- My goal is to improve my skills every day to be able to be more productive.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChatchawanDew404&theme=radical) 
-<br> 
-
-- 🌱 I'm currently learning backend programming languages
-
-- 📫 How to reach me: dewgamer110@gmail.com
-- 😄 Pronouns: Never stop learning
-- ⚡ Fun facts: stack overflow is everthing
-
-### My technologies
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChatchawanDew404&langs_count=8)
-
-<br>
-
-![html](https://img.shields.io/badge/-Html5-24292f?style=for-the-badge&logo=Html5)
-
-![CSS3](https://img.shields.io/badge/-CSS3-24292f?style=for-the-badge&logo=Css3)
-
-![Javascript](https://img.shields.io/badge/-Javascript-24292f?style=for-the-badge&logo=Javascript)
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-24292f?style=for-the-badge&logo=Bootstrap)
-
-![Jquery](https://img.shields.io/badge/-Jquery-24292f?style=for-the-badge&logo=Jquery)
-
-<!--
-**ChatchawanDew404/ChatchawanDew404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChatchawanDew404&theme=radical) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
